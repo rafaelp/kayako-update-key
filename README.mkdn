@@ -1,22 +1,22 @@
-## Kayako Update Key
+# Kayako Update Key
 
 This script update key.php file used by Kayako Support Suite from Kayako Members Area.
 
-# INSTALLATION
+## INSTALLATION
 
 1. Rename config.example.php to config.php
 2. Edit config.php with your information
 3. Put kayako-update-key.php on cron to run one day before key expires
 
-# USAGE
+## USAGE
 
 ./kayako-update-key.php
 
-# LICENSE
+## LICENSE
 
 Kayako Update Key is released under the MIT LICENSE.
 
-# AUTHOR
+## AUTHOR
 
 [Rafael Lima](http://rafael.adm.br) at [BielSystems](http://bielsystems.com.br) and [Myfreecomm](http://myfreecomm.com.br)
 
