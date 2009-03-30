@@ -48,5 +48,6 @@ curl_exec($ch);
 
 curl_close($ch);
 fclose($fp);
+if(file_exists($config['cookie_path'])) unlink($config['cookie_path']);
 
 ?>
